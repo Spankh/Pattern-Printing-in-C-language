@@ -15,6 +15,7 @@ int main()
         for (int j = 1; j <= n; j++) { // inner loop for col
          
             printf("%d",a);
+             printf(" ");
             a = a + 2; // condition to find next odd no in series start with 1
             
         }
@@ -29,10 +30,11 @@ int main()
 === Code Execution Successful ===
 
 Enter no of lines: 4
-1357
-9111315
-17192123
-25272931
+1 3 5 7 
+9 11 13 15 
+17 19 21 23 
+25 27 29 31 
+
 
 === Code Execution Successful ===
 */
