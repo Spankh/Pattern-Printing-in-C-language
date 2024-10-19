@@ -1,4 +1,4 @@
-// Number Series - continue no series with 5-5 set of no in a row
+// Number Series - continue no series with n set of no in a row
 
 #include <stdio.h>
 
