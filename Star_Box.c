@@ -1,5 +1,5 @@
 // Star Box - where no of row & col are different
-
+    
 #include <stdio.h>
 
 int main()
@@ -24,4 +24,17 @@ int main()
     }
     return 0;
 }
+
+=== Code Execution Successful ===
+
+    
+Enter No of Rows: 3
+Enter No of Col: 5
+* * * * * 
+* * * * * 
+* * * * * 
+
+
+=== Code Execution Successful ===
+
 
