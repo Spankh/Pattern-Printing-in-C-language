@@ -5,7 +5,7 @@
 int main()
 {
     int n; 
-    scanf(“%d”,&n); 
+    scanf(“%d”,&n); // input no of lines
     
     for (int i = 1; i <= n; i++){ //outer loop for row
         
@@ -20,3 +20,14 @@ int main()
     return 0;
 }
 
+
+=== Code Execution Successful ===
+
+4
+* * * * 
+* * * * 
+* * * * 
+* * * * 
+
+
+=== Code Execution Successful ===
