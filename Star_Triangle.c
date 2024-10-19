@@ -4,7 +4,8 @@
 
 int main()
 {
-    int n; // Input Number of lines
+    int n; // Number of lines
+    printf("Enter no of lines: ");
     scanf(“%d”, &n); 
     
     for (int i = 1; i <= n; i++){ //outer loop for row
@@ -23,7 +24,7 @@ int main()
 
 === Code Execution Successful ===
 
-5
+Enter no of lines: 5
 * 
 * * 
 * * * 
