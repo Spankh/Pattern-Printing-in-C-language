@@ -1,4 +1,4 @@
-// Reverse Star Triangle - by using row col realtion in each line (i+j = n+1) 
+// Reverse Star Triangle - by using row col relation in each line (i+j = n+1) 
 
 #include <stdio.h>
 
@@ -21,8 +21,7 @@ int main()
     return 0;
 }
 
-
-
+/*
 === Code Execution Successful ===
 
 Enter no of lines: 5
@@ -32,5 +31,5 @@ Enter no of lines: 5
 **
 *
 
-
 === Code Execution Successful ===
+*/
