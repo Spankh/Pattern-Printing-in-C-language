@@ -15,7 +15,7 @@ int main()
         for (int j = 1; j <= n; j++) { // inner loop for col
          
             printf("%d",a);
-            a = a + 2; // condition to find next odd no in series
+            a = a + 2; // condition to find next odd no in series start with 1
             
         }
         printf("\n");
