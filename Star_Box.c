@@ -25,6 +25,8 @@ int main()
     return 0;
 }
 
+
+/*
 === Code Execution Successful ===
 
     
@@ -36,5 +38,4 @@ Enter No of Col: 5
 
 
 === Code Execution Successful ===
-
-
+*/
