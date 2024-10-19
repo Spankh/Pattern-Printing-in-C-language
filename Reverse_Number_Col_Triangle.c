@@ -24,6 +24,7 @@ int main()
     return 0;
 }
 
+/*
 === Code Execution Successful ===
 
 Enter no of lines: 5
@@ -33,5 +34,5 @@ Enter no of lines: 5
 12
 1
 
-
 === Code Execution Successful ===
+*/
