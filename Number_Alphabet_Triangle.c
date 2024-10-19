@@ -5,6 +5,7 @@
 int main()
 {
     int n; // Number of lines
+    printf("Enter no of lines: ");
     scanf(“%d”, &n); 
     
     for (int i = 1; i <= n; i++){ //outer loop for row
@@ -27,3 +28,17 @@ int main()
     }
     return 0;
 }
+
+
+=== Code Execution Successful ===
+
+    
+Enter no of lines: 5
+1
+AB
+123
+ABCD
+12345
+
+
+=== Code Execution Successful ===
