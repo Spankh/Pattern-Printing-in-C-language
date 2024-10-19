@@ -12,6 +12,6 @@ The C programming language allows us to print a variety of patterns, including F
 7) Establish the row-to-column relationship.
    
 **IMPORTANT**
-  1) Always Dry Run your code by using pen paper in your initial stage learning.
-  2) When you are running in compiler/editor change some small variables values / printing variables / conditions to analize the changes in output.
+  1) Always Dry Run your code by using pen paper in your initial stage of learning.
+  2) When you are running in compiler/editor, do some small changes Like - variables values / printing variables / conditions to analize the changes in output.
    
