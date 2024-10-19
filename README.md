@@ -1,2 +1,12 @@
 # Pattern-Printing-in-C-language
-We can print different patterns like star patterns, number patterns, alphabet patterns, hollow patterns, star cross, odd number triangle, pyramid patterns, Floyd's triangle, Pascal's triangle, etc. in C language.
+==== C-language (Pattern-Printing) =====
+The C programming language allows us to print a variety of patterns, including Floyd's triangle, Pascal's triangle, odd number triangles, star patterns, star cross patterns, alphabet patterns, hollow patterns, and more.
+
+===== How to approach patterns? =====
+1) Number of rows = Number of lines
+2) How many times will the outer loop run?
+3) Identify for every Row no.
+4) How many number of columns?
+5) Find column's element type.
+6) What should you print?
+7) Establish the row-to-column relationship.
