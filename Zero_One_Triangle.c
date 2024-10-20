@@ -1,4 +1,4 @@
-// 0 & 1 Triangle
+// 0 & 1 Triangle - by using extra variables
 
 #include <stdio.h>
 
@@ -8,7 +8,7 @@ int main()
     printf("Enter no of lines: ");
     scanf(“%d”, &n); 
     
-    int a;
+    int a; // by using extra variables
     
     for (int i = 1; i <= n; i++){ //outer loop for row
     
