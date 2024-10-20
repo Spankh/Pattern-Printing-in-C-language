@@ -10,7 +10,6 @@ int main()
     int n_space = n-1; // No of space
     
     for (int i = 1; i <= n; i++){ //outer loop for row
-     int a = i-1; // extra variable
      
         for (int s = 1; s <= n_space; s++) { // inner loop for col to print space brfore element
            printf("  "); // print double space due to duble digit
@@ -22,7 +21,9 @@ int main()
             printf(" ");
           
         }
-          for(int k = 1; k <= i-1; k++){ //nested loop for col to print extra no
+
+        int a = i-1; // extra variable
+         for(int k = 1; k <= i-1; k++){ //nested loop for col to print extra no
            
             printf("%d",a);
             printf(" ");
@@ -49,4 +50,4 @@ Enter no of lines: 5
 
 
 === Code Execution Successful ===
-/*
+*/
